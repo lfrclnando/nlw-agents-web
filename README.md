@@ -58,4 +58,10 @@ src/
 - **TypeScript** - Verificação de tipos
 - **Vite** - Hot reload e build otimizada
 
+## 💻 Autores e Agradecimentos
+
+<div style="display:flex; justify-content: space-around">
+<h4 align="left">Um projeto da semana NLW da Rocketseat</h4>
 <h5 align="right">Reproduzido com muito carinho por 🦅 Fernando</h5>
+</div>
+# nlw-agents
