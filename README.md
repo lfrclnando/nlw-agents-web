@@ -57,3 +57,5 @@ src/
 - **Biome** - Linter e formatter
 - **TypeScript** - Verificação de tipos
 - **Vite** - Hot reload e build otimizada
+
+<h5 align="right">Reproduzido com muito carinho por 🦅 Fernando</h5>
