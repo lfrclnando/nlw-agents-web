@@ -20,7 +20,7 @@ export function useCreateQuestion(roomId: string) {
       )
 
       const result: CreateQuestionResponse = await response.json()
-
+      
       return result
     },
 
